@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": {"model": "t1:test_block"}
+     }
+}
